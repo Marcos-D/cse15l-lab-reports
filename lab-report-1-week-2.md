@@ -1,5 +1,6 @@
 ### Installing VS Code
-![Image](VScode.png)
+
+![vs](VScode.png)
 
 Visit [VS Code](https://code.visualstudio.com/) and install the latest version of VSCode.
 
@@ -11,7 +12,7 @@ Follow the steps to [Install OpenSSH](https://docs.microsoft.com/en-us/windows-s
 
 Find your login [here](https://sdacs.ucsd.edu/~icc/index.php)
 
-![Image](remoteLogin.png)
+![ssh](remoteLogin.png)
 
 type the command:
 *ssh cs15lwi22zzz@ieng6.ucsd.edu*
@@ -30,7 +31,8 @@ try any of the following commands:
 - cat /home/linux/ieng6/cs15lwi22/public/hello.txt 
 
 The output should look something like this if you ran similar commands
-![Image](tryingCommands.png)
+
+![commands](tryingCommands.png)
 
 ---
 
@@ -42,7 +44,7 @@ Simply, type the following command to copy WhereAmI.java on the remote:
 
 When your file has transferred it should look like this.
 
-![Image](scp.png)
+![scp](scp.png)
 
 ---
 ### Setting an SSH Key 
@@ -60,7 +62,7 @@ Back on your local machine, scp your public key file by typing the following com
 
 Where User is repalced by your User and zzz is replaced by your login. A successful file transfer should look like this.
 
-![Image](transferPub.png)
+![transfer](transferPub.png)
 
 You now should be able to login to SSH **WITHOUT** need of typing in your password. 
 
@@ -69,9 +71,9 @@ You now should be able to login to SSH **WITHOUT** need of typing in your passwo
 To simplify the remote running process here are some tips: 
 - You can login and run commands in the remote at once. By doing the following: Running ssh command and then your command like "ls"  
 
-![Image](optimization.png)
+![opt](optimization.png)
 
 - You can run multiple commands at once by comma separating them.
 
-![Image](MultipleCommands.png)
+![mult](MultipleCommands.png)
 
