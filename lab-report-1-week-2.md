@@ -1,6 +1,6 @@
 ### Installing VS Code
 
-![vs](VScode.png)
+![vs](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/VScode.PNG)
 
 Visit [VS Code](https://code.visualstudio.com/) and install the latest version of VSCode.
 
@@ -32,7 +32,7 @@ try any of the following commands:
 
 The output should look something like this if you ran similar commands
 
-![commands](tryingCommands.png)
+![commands](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/tryingCommands.PNG)
 
 ---
 
@@ -62,7 +62,7 @@ Back on your local machine, scp your public key file by typing the following com
 
 Where User is repalced by your User and zzz is replaced by your login. A successful file transfer should look like this.
 
-![transfer](transferPub.png)
+![transfer](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/transferPub.PNG)
 
 You now should be able to login to SSH **WITHOUT** need of typing in your password. 
 
@@ -71,9 +71,9 @@ You now should be able to login to SSH **WITHOUT** need of typing in your passwo
 To simplify the remote running process here are some tips: 
 - You can login and run commands in the remote at once. By doing the following: Running ssh command and then your command like "ls"  
 
-![opt](optimization.png)
+![opt](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/optimization.PNG)
 
 - You can run multiple commands at once by comma separating them.
 
-![mult](MultipleCommands.png)
+![mult](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/multipleCommands.PNG)
 
