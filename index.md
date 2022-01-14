@@ -1,6 +1,5 @@
 anything
 # Header1
-## Header2
 > blockquote
 > 
 > blockquote2 
