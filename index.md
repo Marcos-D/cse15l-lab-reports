@@ -1,5 +1,11 @@
 anything
 # Header1
+![Image](patrick.jpg)
+
+[Lab Report 1](lab-report-1-week-2.md)
+
+[Lab Report 1](https://marcos-d.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
+
 > blockquote
 > 
 > blockquote2 
@@ -7,3 +13,4 @@ anything
 2. Two
 3. Three
 4. Four
+
