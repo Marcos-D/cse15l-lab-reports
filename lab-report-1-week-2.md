@@ -1,7 +1,7 @@
 ### Installing VS Code
 ![Image](VScode.png)
 
-Visit https://code.visualstudio.com/ and install the latest version of VSCode.
+Visit [VS Code](https://code.visualstudio.com/) and install the latest version of VSCode.
 
 If you're on Windows, your VS code should look similar to mine.
 
