@@ -77,3 +77,10 @@ To simplify the remote running process here are some tips:
 
 ![mult](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/multipleCommands.PNG)
 
+- Using the up-arrow can save time by returning the previously ran command
+
+     - Doing so we can reduce the amount of key strokes it takes to make a local change to our file, scp it over to host, and run the file at the host.
+
+    -  This should take about 5 key strokes in total. Up and Enter to Scp our file. Up, Up and Enter to connect to host and run our file. This would look like the following:
+    
+![keyStrokes](keyStrokes.PNG)
