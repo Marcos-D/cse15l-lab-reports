@@ -1,3 +1,4 @@
+## Week 2 Lab Report
 ### Installing VS Code
 
 ![vs](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/VScode.PNG)
@@ -12,7 +13,7 @@ Follow the steps to [Install OpenSSH](https://docs.microsoft.com/en-us/windows-s
 
 Find your login [here](https://sdacs.ucsd.edu/~icc/index.php)
 
-![ssh](remoteLogin.png)
+![ssh](/pictures1/remoteLogin.png)
 
 type the command:
 *ssh cs15lwi22zzz@ieng6.ucsd.edu*
@@ -44,7 +45,7 @@ Simply, type the following command to copy WhereAmI.java on the remote:
 
 When your file has transferred it should look like this.
 
-![scp](scp.png)
+![scp](/pictures1/scp.png)
 
 ---
 ### Setting an SSH Key 
@@ -83,4 +84,4 @@ To simplify the remote running process here are some tips:
 
     -  This should take about 5 key strokes in total. Up and Enter to Scp our file. Up, Up and Enter to connect to host and run our file. This would look like the following:
     
-![keyStrokes](keyStrokes.PNG)
+![keyStrokes](/pictures1/keyStrokes.PNG)
