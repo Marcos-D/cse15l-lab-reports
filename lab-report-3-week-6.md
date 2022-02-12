@@ -2,9 +2,11 @@
 ---
 Public Key on my Github Account:
 ![gitkey](/pictures3/githubkey.png)
+
 ---
 Private Key in ieng6: 
 ![ieng6key](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/pictures3/keyLocation.PNG)
+
 ---
 In the following screenshot
 
