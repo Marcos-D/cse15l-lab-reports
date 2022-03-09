@@ -4,7 +4,7 @@
 
 ### Code Snippet 1  
 1. Test:    
-    ![my_snip2Test](/pictures4/my_snip1Test.PNG)
+    ![my_snip2Test](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/pictures4/my_snip1Test.PNG)
 2. Output:
     ![my_snip2Out](/pictures4/my_snip1Out.PNG)
 3. Can it be fixed in > 10 lines?
@@ -31,7 +31,7 @@
 
 ### Code Snippet 1
 1. Test:
-    ![my_snip1Test](/pictures4/my_snip1Test.PNG)
+    ![my_snip1Test](https://raw.githubusercontent.com/Marcos-D/cse15l-lab-reports/main/pictures4/my_snip1Test.PNG)
 2. Output:
     ![reviewed_snip1Out](/pictures4/reviewed_snip1Out.PNG)
 3. Can it be fixed in > 10 lines?
