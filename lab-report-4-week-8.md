@@ -2,8 +2,8 @@
 ---
 ### [Link to my Markdown Repository](https://github.com/Marcos-D/CSE15L-Platypus)
 
-### Code Snippet 1
-1. Test:
+### Code Snippet 1  
+1. Test:    
     ![my_snip2Test](/pictures4/my_snip1Test.PNG)
 2. Output:
     ![my_snip2Out](/pictures4/my_snip1Out.PNG)
